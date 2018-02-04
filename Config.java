@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import org.firstinspires.ftc.robotcore.external.navigation.VuforiaLocalizer;
 
 /**
- * Created by Doug on 12/24/2017.
+ * Created by Doug on 12/24/2017.  Tested by Tom
  */
 
 public class Config {
